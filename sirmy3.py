@@ -65,7 +65,7 @@ OWNER_LICENSE_FILE = "owner_license.txt"
 #  ⚡ SPEED SETTINGS ⚡
 # ==============================================================================
 
-NUM_WORKERS = 
+NUM_WORKERS = 1000
 CONCURRENCY = 1500
 MAX_CODES_PER_SESSION = 1000
 MAX_CODES_PER_SID = 40
